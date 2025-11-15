@@ -1,0 +1,5 @@
+{
+  "name": "wood - calculator",
+  "description": "An application to calculate the optimal cutting layout for boards and pieces, visualize the result, and save calculations for future reference.",
+  "requestFramePermissions": []
+}
